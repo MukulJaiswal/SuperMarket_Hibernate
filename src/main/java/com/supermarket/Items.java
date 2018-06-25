@@ -5,6 +5,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+/**
+ * This Class contains data types for Database storage.
+ * @author MukulJaiswal
+ *
+ */
 @Entity
 public class Items {
 
