@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Date :June 16,2018 
  * @author MukulJaiswal.
- * @version 1.0
+ * @version 1.0.0
  */
 public class SuperMarket {
 	/**
